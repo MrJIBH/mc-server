@@ -1,25 +1,3 @@
-
-
-
-
-
-# Custom version
-# mohist / catserver   Install forge   first
-# purpur               Install fabric  first
-# snapshot             Install vanilla first
-
-# Ngrok region
-# Code           Place
-#-----------     ---------------------------
-# ap	          Asia/Pacific (Singapore)
-# au		  Australia (Sydney)
-# eu		  Europe (Frankfurt)
-# in		  India (Mumbai)
-# jp		  Japan (Tokyo)
-# sa		  South America (São Paulo)
-# us		  United States (Ohio)
-# us-cal-1	  United States (California)
-
 import requests,os,base64
 if not os.path.exists("./.gitignore"):
 	big = "L3dvcmtfYXJlYQ0KL3NlcnZpZG9yX21pbmVjcmFmdA0KL21pbmVjcmFmdF9zZXJ2ZXINCi9zZXJ2aWRvcl9taW5lY3JhZnRfb2xkDQovdGFpbHNjYWxlLWNzDQovdGhhbm9zDQovYmtkaXINCi92ZW5kb3INCmNvbXBvc2VyLioNCmNvbmZpZ3VyYXRpb24uanNvbg0KY29uZmlndXJhY2lvbi5qc29uDQoqLnR4dA0KKi5weWMNCioub3V0cHV0"
